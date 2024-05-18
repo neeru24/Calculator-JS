@@ -8,4 +8,4 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Evaluates mathematical expressions using JavaScript's eval() function
 
 ## Output
-<img src="C:\Users\91981\OneDrive\Pictures\Saved Pictures\Calculator-output.png"> 
+<img src="C:\Users\91981\OneDrive\Pictures\Saved Pictures\Calculator-output.png" alt="calculator"> 
